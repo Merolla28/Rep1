@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+}
+
+.first-div {
+    background-color: black;
+    padding: 10px;
+
+}
+
+.white {
+    color: white;
+}
+
+.sec-div {
+    margin: 10px;
+}
+
+.projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.project {
+    padding: 15px;
+    margin: 5px;
+    border: 1px solid gray;
+    text-align: left;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 6px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 350px 0px 350px;
+}
+
+input,
+textarea {
+    margin-bottom: 5px;
+}
+
+.end {
+    margin-top: 50px;
+    background-color: black;
+    padding: 5px;
+}
